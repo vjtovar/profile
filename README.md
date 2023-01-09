@@ -26,7 +26,7 @@ Nice to meet you! I'm Valerie, a Software Engineering student at nology.io.
 
 #### Flexbox & Grid
 1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_1_HTML_CSS/flexbox-challenge>Flexbox Challenge</a> - Creating a table using HTML, CSS, and Flexbox
-2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_1_HTML_CSS/flexbox-challenge>Flexbox Challenge 2</a> - Creating cards using HTML, CSS, and Flexbox
+2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_1_HTML_CSS/flexbox-challenge-2>Flexbox Challenge 2</a> - Creating cards using HTML, CSS, and Flexbox
 3. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_1_HTML_CSS/responsive-grid>Responsive Grid</a> - A responsive grid built with HTML, CSS, and media queries
 
 #### SCSS
