@@ -52,7 +52,7 @@ Nice to meet you! I'm Valerie, a Software Engineering student at nology.io.
 
 #### Testing
 1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_4_Testing/Unit_Testing>Unit Testing</a> - Unit Testing challenges and unit testing the adventure text game built in python during week 2 
-2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_4_Testing/TDD_Flask_Zoo_Inventory>TDD Unit Testing</a> - A Flask app connected to an ElephantSQL database with two tables built using test driven development for unit testing the application
+2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_4_Testing/TDD_Flask_Zoo_Inventory>TDD Unit Testing</a> - A Flask app connected to an ElephantSQL database with two tables built using test driven development to unit test the application
 
 
 
