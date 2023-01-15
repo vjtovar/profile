@@ -48,6 +48,12 @@ Nice to meet you! I'm Valerie, a Software Engineering student at nology.io.
 1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_3_Flask_API/hello-flask>A Treasurehunt Game</a> - A treasurehunt game built in HTML, CSS, JS, Python, and Flask
 2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_3_Flask_API/flask-api>Flask API</a> - A Flask app using PostgreSQL with and API generated using Elephant SQL to connect to a database and write queries to pull in the data
 
+### Week 4
+
+#### Testing
+1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_4_Testing/Unit_Testing>Unit Testing</a> - Unit Testing challenges and unit testing the adventure text game built in python during week 2 
+
+
 
 
 
