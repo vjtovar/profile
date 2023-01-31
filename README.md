@@ -41,7 +41,6 @@ Nice to meet you! I'm Valerie, a Software Engineering student at nology.io.
 1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_2_Python_CSV/adventure_game>Adventure Game</a> - An adventure text game built in python
 2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_2_Python_CSV>Python Challenges</a> - Python challenges for classes, OOP, entry points, named tuples, lists, tuples, dictionaries, loops, types, strings, control flow, functions, and LAMBDA methods
 
-
 ### Week 3
 
 #### Flask & API
@@ -53,6 +52,12 @@ Nice to meet you! I'm Valerie, a Software Engineering student at nology.io.
 #### Testing
 1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_4_Testing/Unit_Testing>Unit Testing</a> - Unit Testing challenges and unit testing the adventure text game built in python during week 2 
 2. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_4_Testing/TDD_Flask_Zoo_Inventory>TDD Unit Testing</a> - A Flask app connected to an ElephantSQL database with two tables built using test driven development to unit test the application
+
+### Week 6
+
+#### Flask & MongoDB
+1. <a target=_blank href=https://github.com/vjtovar/nology-coursework/tree/main/Week_6_MongoDB_NoSQL/TDD_Flask_MongoDB>TDD Unit Testing</a> - A Flask app connected to MongoDB built using test driven development to unit test the application
+
 
 
 
